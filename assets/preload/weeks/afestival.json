@@ -1,0 +1,49 @@
+{
+	"storyName": "The Festival",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "festival",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Too-late",
+			"Monika",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"You-cant-escape",
+			"Monika",
+			[
+				200,
+				180,
+				0
+			]
+		],
+		[
+			"Troublesome-festival",
+			"Monika",
+			[
+				200,
+				180,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week1"
+}
