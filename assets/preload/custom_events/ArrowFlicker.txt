@@ -1,0 +1,4 @@
+Make arrows flick (duh)
+
+Value 1: Bf arrows: 0, Opponent arrows: 1
+Value 2: Duration
