@@ -3,57 +3,57 @@
 		{
 			"offsets": [
 				1,
-				0
+				50
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Senpai Idle",
+			"name": "Angry Senpai Idle instance",
 			"indices": []
 		},
 		{
 			"offsets": [
-				5,
-				37
+				-15,
+				97
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "SENPAI UP NOTE"
+			"name": "Angry Senpai UP NOTE"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-60,
+				50
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "Angry Senpai RIGHT NOTE"
 		},
 		{
 			"offsets": [
-				40,
-				0
+				50,
+				60
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SENPAI LEFT NOTE"
+			"name": "Angry Senpai LEFT NOTE"
 		},
 		{
 			"offsets": [
-				14,
-				0
+				34,
+				60
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "Angry Senpai DOWN NOTE"
 		}
 	],
 	"no_antialiasing": true,
@@ -62,12 +62,12 @@
 		150,
 		360
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "icon-monika.exe",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		107,
+		160,
+		77
 	],
 	"camera_position": [
 		-240,

@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				-153
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Right instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				-88
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NewPhase2Sonic Down instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				63,
+				29
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NewPhase2Sonic Up instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				296,
+				-112
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Left instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				42
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "NewPhase2Sonic Idle instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				-89
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-120,
+				-88
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-120,
+				-89
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-120,
+				-88
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-20
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/P2Sonic_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		300,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

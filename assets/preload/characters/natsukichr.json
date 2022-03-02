@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				179
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Natsuki right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				155
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Natsuki down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				225
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Natsuki up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				180
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Natsuki left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				229
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Natsuki idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				291,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Natsuki haha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natsukichr",
+	"position": [
+		330,
+		390
+	],
+	"healthicon": "icon-natsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		149,
+		211
+	],
+	"camera_position": [
+		-250,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

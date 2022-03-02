@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				868,
+				638
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monika left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				794,
+				569
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monika down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				742,
+				658
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monika up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				688,
+				643
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monika right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				763,
+				644
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Monika idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				800,
+				610
+			],
+			"loop": true,
+			"anim": "Writing tip",
+			"fps": 24,
+			"name": "Monika wt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				800,
+				610
+			],
+			"loop": true,
+			"anim": "Writing tip-loop",
+			"fps": 24,
+			"name": "Monika loop wt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				750,
+				641
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Monika laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stillmonika",
+	"position": [
+		860,
+		920
+	],
+	"healthicon": "icon-last_act_Monika",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		140,
+		-2147483648
+	],
+	"camera_position": [
+		-850,
+		-850
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

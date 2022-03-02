@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-159,
+				-26
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sayo Sing Note Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				-67
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sayo Sing Note Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-176,
+				30
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sayo Sing Note Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				-24
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sayo Sing Note Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				-15
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sayo Idle nrw test"
+		},
+		{
+			"offsets": [
+				-143,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SayoNara",
+			"indices": [],
+			"name": "Sayo Nara animated"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-110,
+				-158
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-110,
+				-159
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-110,
+				-158
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doki_Sayo_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		224,
+		250
+	],
+	"camera_position": [
+		220,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

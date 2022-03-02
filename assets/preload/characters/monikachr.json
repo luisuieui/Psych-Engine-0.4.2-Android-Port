@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				904,
+				592
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monika left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				789,
+				529
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Monika down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				739,
+				617
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Monika up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				668,
+				609
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monika right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				791,
+				610
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Monika idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				790,
+				611
+			],
+			"fps": 24,
+			"anim": "Writing tip",
+			"indices": [],
+			"name": "Monika wt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				800,
+				610
+			],
+			"fps": 24,
+			"anim": "Writing tip-loop",
+			"indices": [],
+			"name": "Monika loop wt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				741,
+				640
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "monika.exe hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monikachr",
+	"position": [
+		880,
+		870
+	],
+	"healthicon": "icon-monika.exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		140,
+		-2147483648
+	],
+	"camera_position": [
+		-860,
+		-780
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}
